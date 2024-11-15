@@ -4,7 +4,7 @@ theme: {
    extend: {
       colors: {
       background: "var(--background)",
-		color: "var(--color)",
+		color: "var(--text-color)",
    },
 },
 },
